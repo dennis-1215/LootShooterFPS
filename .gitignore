@@ -1,0 +1,8 @@
+# Unreal Engine - 캐시, 빌드, 로그 등 무시
+Intermediate/
+Binaries/
+Saved/
+DerivedDataCache/
+.vscode/
+.idea/
+LootShooterFPS.uproject
